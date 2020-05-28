@@ -17,7 +17,7 @@
 ### <a name="module"></a>Отличительные особенности модулей:
 #### <a name="mvp"></a>mvp:
 Простой MVP с имитацией репозитория и use cases.
-Работа с репозиторием через kotlinx-**coroutines**
+Работа с репозиторием через kotlinx-**coroutines** и suspend функции.
 
 #### <a name="moxy"></a>moxy:
 Это модуль mvp, в котором для реализации MVP использовалась библиотека tech.schoolhelper:**moxy**-x.  
