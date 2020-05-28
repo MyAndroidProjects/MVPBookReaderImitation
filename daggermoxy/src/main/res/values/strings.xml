@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Moxy_Dagger2_kotlin</string>
+
+
+    <string name="bulgakov_surname">Булгаков</string>
+    <string name="bulgakov_name">Михаил</string>
+    <string name="bulgakov_patronymic">Афанасьевич</string>
+
+    <string name="belyaev_surname">Беляев</string>
+    <string name="belyaev_name">Александр</string>
+    <string name="belyaev_patronymic">Романович</string>
+
+    <string name="read_bulgakov">Читать Булгакова М.А.</string>
+    <string name="read_belyaev">Читать Беляева А.Р.</string>
+    <string name="next">Далее</string>
+    <string name="arrow">&#187;</string>
+    <string name="arrow_up">&#8657;</string>
+</resources>

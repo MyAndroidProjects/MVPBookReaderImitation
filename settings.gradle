@@ -1,0 +1,2 @@
+rootProject.name='MVP Book Reader Imitation'
+include ':mvp', ':moxy', ':daggermoxy'
